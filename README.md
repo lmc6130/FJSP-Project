@@ -1,4 +1,4 @@
-# FJSP-Project
+# IEEM Final Year Project: Addressing the Flexible Job Shop Scheduling Problem
 
 The source code of [利用混合整數規劃法求解生產排程之研究](https://drive.google.com/file/d/1zXoHAPbGXa-eO7IXMQRt_tAAmS0L5DX3/view?usp=drive_link)
 
